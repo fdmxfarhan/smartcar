@@ -1,0 +1,337 @@
+# depslib dependency file v1.0
+1609018681 source:c:\users\mohammadhossein\desktop\smart car-v1.0 - copy\smart_car\address.cpp
+	"Address.h"
+
+1609018566 c:\users\mohammadhossein\desktop\smart car-v1.0 - copy\smart_car\address.h
+
+1613696131 source:c:\users\mohammadhossein\desktop\smart car-v1.0 - copy\smart_car\main.cpp
+	"./smart car/robot.h"
+	"iostream"
+
+1613692408 c:\users\mohammadhossein\desktop\smart car-v1.0 - copy\smart_car\robot.h
+
+1613693491 source:c:\users\mohammadhossein\desktop\smart car-v1.0 - copy\smart_car\robot.cpp
+	"robot.h"
+	<string>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	"socket_udp.h"
+	<sstream>
+
+1609122686 c:\users\mohammadhossein\desktop\smart car-v1.0 - copy\smart_car\socket_udp.h
+
+1613692621 source:c:\users\mohammadhossein\desktop\smart car-v1.0 - copy\smart_car\socket.cpp
+	"Socket.h"
+	<stdio.h>
+	<string>
+	"Socket.h"
+	"Address.h"
+	"robot.h"
+	<cstdlib>
+
+1609123390 c:\users\mohammadhossein\desktop\smart car-v1.0 - copy\smart_car\socket.h
+	<winsock2.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<fcntl.h>
+	<unistd.h>
+	<stdio.h>
+	"Address.h"
+
+1609123236 source:c:\users\mohammadhossein\desktop\smart car-v1.0 - copy\smart_car\socket_udp.cpp
+
+1613692408 c:\users\mohammadhossein\desktop\smart car-v1.0 - copy\smart_car\header\robot.h
+
+1609018681 source:c:\users\mohammadhossein\desktop\smart car-v1.0 - copy\smart_car\header\address.cpp
+	"Address.h"
+
+1609018566 c:\users\mohammadhossein\desktop\smart car-v1.0 - copy\smart_car\header\address.h
+
+1613695533 source:c:\users\mohammadhossein\desktop\smart car-v1.0 - copy\smart_car\header\robot.cpp
+	"robot.h"
+	<string>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<sstream>
+
+1613692621 source:c:\users\mohammadhossein\desktop\smart car-v1.0 - copy\smart_car\header\socket.cpp
+	"Socket.h"
+	<stdio.h>
+	<string>
+	"Socket.h"
+	"Address.h"
+	"robot.h"
+	<cstdlib>
+
+1609123390 c:\users\mohammadhossein\desktop\smart car-v1.0 - copy\smart_car\header\socket.h
+	<winsock2.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<fcntl.h>
+	<unistd.h>
+	<stdio.h>
+	"Address.h"
+
+1609018681 source:c:\users\mohammadhossein\desktop\smart car-v1.0 - copy\smart_car\smart car\address.cpp
+	"Address.h"
+
+1609018566 c:\users\mohammadhossein\desktop\smart car-v1.0 - copy\smart_car\smart car\address.h
+
+1613695533 source:c:\users\mohammadhossein\desktop\smart car-v1.0 - copy\smart_car\smart car\robot.cpp
+	"robot.h"
+	<string>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<sstream>
+
+1613692408 c:\users\mohammadhossein\desktop\smart car-v1.0 - copy\smart_car\smart car\robot.h
+
+1613692621 source:c:\users\mohammadhossein\desktop\smart car-v1.0 - copy\smart_car\smart car\socket.cpp
+	"Socket.h"
+	<stdio.h>
+	<string>
+	"Socket.h"
+	"Address.h"
+	"robot.h"
+	<cstdlib>
+
+1609123390 c:\users\mohammadhossein\desktop\smart car-v1.0 - copy\smart_car\smart car\socket.h
+	<winsock2.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<fcntl.h>
+	<unistd.h>
+	<stdio.h>
+	"Address.h"
+
+1613851042 source:c:\users\fdmx\desktop\smart_car_v1.0\main.cpp
+	"./smart car/robot.h"
+	<iostream>
+
+1613849906 c:\users\fdmx\desktop\smart_car_v1.0\smart car\robot.h
+
+1609018681 source:c:\users\fdmx\desktop\smart_car_v1.0\smart car\address.cpp
+	"Address.h"
+
+1609018566 c:\users\fdmx\desktop\smart_car_v1.0\smart car\address.h
+
+1613850629 source:c:\users\fdmx\desktop\smart_car_v1.0\smart car\robot.cpp
+	"robot.h"
+	<string>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<sstream>
+	<windows.h>
+
+1613692621 source:c:\users\fdmx\desktop\smart_car_v1.0\smart car\socket.cpp
+	"Socket.h"
+	<stdio.h>
+	<string>
+	"Socket.h"
+	"Address.h"
+	"robot.h"
+	<cstdlib>
+
+1609123390 c:\users\fdmx\desktop\smart_car_v1.0\smart car\socket.h
+	<winsock2.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<fcntl.h>
+	<unistd.h>
+	<stdio.h>
+	"Address.h"
+
+1609018681 source:c:\users\mohammadhossein\desktop\smart_car_v1.0\smart car\address.cpp
+	"Address.h"
+
+1609018566 c:\users\mohammadhossein\desktop\smart_car_v1.0\smart car\address.h
+
+1614610510 source:c:\users\mohammadhossein\desktop\smart_car_v1.0\smart car\robot.cpp
+	"robot.h"
+	<string>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<sstream>
+	<windows.h>
+
+1614627606 c:\users\mohammadhossein\desktop\smart_car_v1.0\smart car\robot.h
+
+1613692621 source:c:\users\mohammadhossein\desktop\smart_car_v1.0\smart car\socket.cpp
+	"Socket.h"
+	<stdio.h>
+	<string>
+	"Socket.h"
+	"Address.h"
+	"robot.h"
+	<cstdlib>
+
+1609123390 c:\users\mohammadhossein\desktop\smart_car_v1.0\smart car\socket.h
+	<winsock2.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<fcntl.h>
+	<unistd.h>
+	<stdio.h>
+	"Address.h"
+
+1614629279 source:c:\users\mohammadhossein\desktop\smart_car_v1.0\main.cpp
+	"./smart car/robot.h"
+	<iostream>
+
+1609018681 source:c:\users\fdmx\desktop\smart_car_v2.1_c++\smart car\address.cpp
+	"Address.h"
+
+1609018566 c:\users\fdmx\desktop\smart_car_v2.1_c++\smart car\address.h
+
+1613692621 source:c:\users\fdmx\desktop\smart_car_v2.1_c++\smart car\socket.cpp
+	"Socket.h"
+	<stdio.h>
+	<string>
+	"Socket.h"
+	"Address.h"
+	"robot.h"
+	<cstdlib>
+
+1609123390 c:\users\fdmx\desktop\smart_car_v2.1_c++\smart car\socket.h
+	<winsock2.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<fcntl.h>
+	<unistd.h>
+	<stdio.h>
+	"Address.h"
+
+1614627606 c:\users\fdmx\desktop\smart_car_v2.1_c++\smart car\robot.h
+
+1614633742 source:c:\users\fdmx\desktop\smart_car_v2.1_c++\smart car\robot.cpp
+	"robot.h"
+	<string>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<sstream>
+	<windows.h>
+
+1615488957 source:c:\users\fdmx\desktop\smart_car_v2.1_c++\main.cpp
+	"./smart car/robot.h"
+	<iostream>
+
+1615578430 source:e:\project\juniorcup simulation\applications\smart_car_v2.1_c++\main.cpp
+	"./smart car/robot.h"
+	<iostream>
+
+1614627606 e:\project\juniorcup simulation\applications\smart_car_v2.1_c++\smart car\robot.h
+
+1609018680 source:e:\project\juniorcup simulation\applications\smart_car_v2.1_c++\smart car\address.cpp
+	"Address.h"
+
+1609018566 e:\project\juniorcup simulation\applications\smart_car_v2.1_c++\smart car\address.h
+
+1614633742 source:e:\project\juniorcup simulation\applications\smart_car_v2.1_c++\smart car\robot.cpp
+	"robot.h"
+	<string>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<sstream>
+	<windows.h>
+
+1613692620 source:e:\project\juniorcup simulation\applications\smart_car_v2.1_c++\smart car\socket.cpp
+	"Socket.h"
+	<stdio.h>
+	<string>
+	"Socket.h"
+	"Address.h"
+	"robot.h"
+	<cstdlib>
+
+1609123390 e:\project\juniorcup simulation\applications\smart_car_v2.1_c++\smart car\socket.h
+	<winsock2.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<fcntl.h>
+	<unistd.h>
+	<stdio.h>
+	"Address.h"
+
+1615582427 source:e:\project\juniorcup simulation\applications\smart_car_v2.1_cpp\main.cpp
+	"./smart car/robot.h"
+	<iostream>
+
+1614631206 e:\project\juniorcup simulation\applications\smart_car_v2.1_cpp\smart car\robot.h
+
+1609022280 source:e:\project\juniorcup simulation\applications\smart_car_v2.1_cpp\smart car\address.cpp
+	"Address.h"
+
+1609022166 e:\project\juniorcup simulation\applications\smart_car_v2.1_cpp\smart car\address.h
+
+1614637342 source:e:\project\juniorcup simulation\applications\smart_car_v2.1_cpp\smart car\robot.cpp
+	"robot.h"
+	<string>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<sstream>
+	<windows.h>
+
+1613696220 source:e:\project\juniorcup simulation\applications\smart_car_v2.1_cpp\smart car\socket.cpp
+	"Socket.h"
+	<stdio.h>
+	<string>
+	"Socket.h"
+	"Address.h"
+	"robot.h"
+	<cstdlib>
+
+1609126990 e:\project\juniorcup simulation\applications\smart_car_v2.1_cpp\smart car\socket.h
+	<winsock2.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<fcntl.h>
+	<unistd.h>
+	<stdio.h>
+	"Address.h"
+
+1609022280 source:c:\users\fdmx\desktop\smart_car_v2.1_cpp\smart car\address.cpp
+	"Address.h"
+
+1609022166 c:\users\fdmx\desktop\smart_car_v2.1_cpp\smart car\address.h
+
+1614637342 source:c:\users\fdmx\desktop\smart_car_v2.1_cpp\smart car\robot.cpp
+	"robot.h"
+	<string>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<sstream>
+	<windows.h>
+
+1614631206 c:\users\fdmx\desktop\smart_car_v2.1_cpp\smart car\robot.h
+
+1613696220 source:c:\users\fdmx\desktop\smart_car_v2.1_cpp\smart car\socket.cpp
+	"Socket.h"
+	<stdio.h>
+	<string>
+	"Socket.h"
+	"Address.h"
+	"robot.h"
+	<cstdlib>
+
+1609126990 c:\users\fdmx\desktop\smart_car_v2.1_cpp\smart car\socket.h
+	<winsock2.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<fcntl.h>
+	<unistd.h>
+	<stdio.h>
+	"Address.h"
+
+1618133544 source:c:\users\fdmx\desktop\smart_car_v2.1_cpp\main.cpp
+	"./smart car/robot.h"
+	<iostream>
+
